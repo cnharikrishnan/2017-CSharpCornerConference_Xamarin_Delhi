@@ -27,9 +27,17 @@ Refer our Knowledge base articles in the below links.
 
 [https://www.syncfusion.com/kb/](https://www.syncfusion.com/kb/)
 
-N> For more assistance please contact our [Direct Trac Support System](https://www.syncfusion.com/support/directtrac).
- 
+## Customer Support 
 
+### Forums
+For general queries about Xamarin and Syncfusion Xamarin Components please use our community forums. 
 
+**Xamarin.Forms** - [https://www.syncfusion.com/forums/xamarin.forms](https://www.syncfusion.com/forums/xamarin.forms)
 
+**Xamarin.Android** - [https://www.syncfusion.com/forums/xamarin.android](https://www.syncfusion.com/forums/xamarin.android)  
 
+**Xamarin.iOS** - [https://www.syncfusion.com/forums/xamarin.ios](https://www.syncfusion.com/forums/xamarin.ios)
+
+### Direct Trac System
+
+For more assistance and queries about Syncfusion components please contact using our [Direct Trac Support System](https://www.syncfusion.com/support/directtrac)
