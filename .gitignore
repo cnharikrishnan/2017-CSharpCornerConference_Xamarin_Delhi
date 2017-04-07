@@ -1,7 +1,6 @@
 obj
 bin
 packages
-cireports
 *.suo
 *.csproj.user
 
